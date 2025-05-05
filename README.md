@@ -12,4 +12,4 @@ The game is designed to teach students key mathematical concepts through gamepla
 
 # How to run:
 
-snake_mines.py is work on 'replit' online coding website, 
+snake_mines.py is work on 'Replit' online coding website.
