@@ -8,7 +8,7 @@ The game is designed to teach students key mathematical concepts through gamepla
 - Basic probability (independent and mutually exclusive events)
 
 # Files included
-`snake_mines.py`: Main game file built using Python and Pygame.
+`Snake_Mines_coding.py`: Main game file built using Python and Pygame.
 
 # How to run:
 
